@@ -1,0 +1,6 @@
+host: localhost
+port: 3306
+database: teleporter
+username: root
+password: password
+connectionTimeout: 5000

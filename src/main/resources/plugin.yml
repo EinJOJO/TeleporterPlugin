@@ -1,0 +1,7 @@
+name: Teleporter
+version: '${version}'
+main: it.einjojo.teleporter.TeleporterPlugin
+api-version: '1.20'
+commands:
+  teleporter:
+
